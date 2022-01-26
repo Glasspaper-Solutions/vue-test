@@ -8,6 +8,10 @@
 4. Make a users page that list out the user from the users.js file under assets/data/users.
 5. Make a button on users page that hide show active users
 
+## Api url
+
+https://fakestoreapi.com/
+
 ## Project setup
 ```
 npm install
